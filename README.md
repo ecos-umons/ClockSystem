@@ -1,3 +1,12 @@
+![example workflow](https://github.com/uhourri/ClockSystem/actions/workflows/gradle.yml/badge.svg)
+![example workflow](https://github.com/uhourri/ClockSystem/actions/workflows/pmd.yml/badge.svg)
+![example workflow](https://github.com/uhourri/ClockSystem/actions/workflows/codeql.yml/badge.svg)
+![example workflow](https://github.com/uhourri/ClockSystem/actions/workflows/scorecard.yml/badge.svg)
+![example workflow](https://github.com/uhourri/ClockSystem/actions/workflows/actionlint.yml/badge.svg)
+
+
+
+
 # ClockSystem
 
 This is a gradle-based Java project for a Clock with Swing GUI and JUnit5 unit tests. It has been created and used by Tom Mens for educational purposes at the University of Mons.
